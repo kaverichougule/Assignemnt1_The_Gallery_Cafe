@@ -8,7 +8,7 @@ To give and horizontal line we have used 'hr' it represents a horizontal rule, u
 # About Us Section
 ![image](https://github.com/kaverichougule/Assignemnt1_The_Gallery_Cafe/assets/101037685/039c5006-ad95-4738-8bfa-a06aab8c0d08)
 The "About Us" section provides some information about the cafe. It includes a heading '<h4>', here h4 represents a lower-level heading for subheadings. The section also contains a paragraph '<p>' with some dummy text and 
-<'b'> Represents bold text, used to emphasize certain parts of the content.
+'<b>' Represents bold text, used to emphasize certain parts of the content.
 '<a>' Represents an anchor (link), used for creating clickable links to "Rate Us" and "Follow us" in the "About Us" section.
 
 
@@ -18,7 +18,7 @@ The "Menu" section showcases different cuisines available at the cafe. There are
 '<ol>': Represents an ordered list, used for listing menu items like "South Indian," "Punjabi," and "Extras."
 '<li>': Represents a list item, used within <ol> to define individual items in the menu lists.
 
-#ContactSection
+# ContactSection
 ![image](https://github.com/kaverichougule/Assignemnt1_The_Gallery_Cafe/assets/101037685/cacfde6a-759e-4d3f-bc12-acbe493ffe31)
 The "Contact" section provides contact information for the cafe. It includes a heading '<h1>' and a paragraph `<p>' with some dummy textand some text in bold using '<b>'.
 
