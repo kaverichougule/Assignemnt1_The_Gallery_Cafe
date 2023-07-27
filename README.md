@@ -14,8 +14,9 @@ The "About Us" section provides some information about the cafe. It includes a h
 
 # Menu Section
 ![image](https://github.com/kaverichougule/Assignemnt1_The_Gallery_Cafe/assets/101037685/45a43c2d-9a38-493c-8528-6459aa8d89e7)
-The menue section showcase different cuisines available at the cafe. There are 3 parts seperated using hr tag South Indian, Punjabi and Extras. This also includes the ordered list
-'ol' it represents
+The menue section showcase different cuisines available at the cafe. There are 3 parts seperated using hr tag South Indian, Punjabi and Extras. This also includes the ordered list. <br>
+'ol': Represents an ordered list, used for listing menu items like "South Indian," "Punjabi," and "Extras." <br>
+li: Represents a list item, used within <ol> to define individual items in the menu lists.
 
 
 
