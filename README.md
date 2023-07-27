@@ -8,7 +8,8 @@ To give and horizontal line we have used 'hr' it represents a horizontal rule, u
 # About Us Section
 ![image](https://github.com/kaverichougule/Assignemnt1_The_Gallery_Cafe/assets/101037685/039c5006-ad95-4738-8bfa-a06aab8c0d08)
 The "About Us" section provides some information about the cafe. It includes a heading 'h4', here 'h4' represents a lower-level heading for subheadings. The section also contains a paragraph 'p' with some dummy text and 
-'b' Represents bold text, used to emphasize certain parts of the content.
+<br>
+'b' Represents bold text, used to emphasize certain parts of the content.  <br>
 'a' Represents an anchor (link), used for creating clickable links to "Rate Us" and "Follow us" in the "About Us" section.
 
 # Menu Section
